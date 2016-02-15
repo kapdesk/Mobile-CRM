@@ -1,2 +1,2 @@
 # Mobile-CRM
-Provides service to all CRM based solutions
+Provides service to all Mobile CRM based solutions
