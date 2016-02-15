@@ -1,2 +1,2 @@
 # Mobile-CRM
-Provides service to all Mobile CRM based solutions
+Help your organization with this Mobile CRM APP
